@@ -1,4 +1,5 @@
 #lang sicp
+
 ;operators
 (+ 1 2 3 4 5 6)
 (* 5 2 3)
@@ -19,3 +20,6 @@
   )
 
 (sum-square 2 3)
+
+;printing in scheme: https://wiki.call-cc.org/man/5/Using%20the%20interpreter
+;(print "hello world")
