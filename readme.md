@@ -1,35 +1,39 @@
-https://docs.racket-lang.org/sicp-manual/index.html?q=sicp
+# Welcome to my studies on SICP
+TODO.
 
 https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/pages/syllabus/
 
-https://stackoverflow.com/questions/19546115/which-lang-packet-is-proper-for-sicp-in-dr-racket
+## Videos
 
+### UC Berkeley CS 61A
+
+https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E
 https://people.eecs.berkeley.edu/~bh/61a-pages/
+https://inst.eecs.berkeley.edu/~cs61a/fa10/
 
-https://www.youtube.com/watch?v=4leZ1Ca4f0g&list=PLhMnuBfGeCDNgVzLPxF9o5UNKG1b-LFY9
+### Prof. Eric Grimson 2004 6.001 SICP.
 
-https://www.youtube.com/playlist?list=PLhMnuBfGeCDNgVzLPxF9o5UNKG1b-LFY9
+https://youtube.com/playlist?list=PL7BcsI5ueSNFPCEisbaoQ0kXIDX9rR5FF
 
-https://docs.racket-lang.org/manual@simply-scheme/index.html
+### SICP by Code_report
 
-https://docs.racket-lang.org/sicp-manual/index.html
+https://youtube.com/playlist?list=PLVFrD1dmDdvdvWFK8brOVNL7bKHpE-9w0
 
-https://youtu.be/a0YrCABCOEY
-
+### Leitura comentada (Only in portuguese)
 https://www.youtube.com/playlist?list=PLkpjQs-GfEMNsCqj1XQTMOnlk7s2qeAzL
 
-https://www.youtube.com/playlist?list=PL7BcsI5ueSNFPCEisbaoQ0kXIDX9rR5FF
+## Useful Articles
 
-https://youtu.be/keLFp7-audU
+### Dr Racket and SICP
+https://docs.racket-lang.org/sicp-manual/index.html
 
-https://www.youtube.com/playlist?list=PLVFrD1dmDdvdvWFK8brOVNL7bKHpE-9w0
-
-
+https://stackoverflow.com/questions/19546115/which-lang-packet-is-proper-for-sicp-in-dr-racket
 # interpreters
+
 https://www.gnu.org/software/mit-scheme/
 
+### Chicken scheme and how to install
 http://wiki.call-cc.org/
-
 
 https://command-not-found.com/csi
 
@@ -42,3 +46,7 @@ install evzen-wybitul.magic-racket for syntax highlighting and code runnere for 
 https://web.mit.edu/6.001/6.037/sicp.pdf
 
 https://sicp-solutions.net/
+
+### Anime sicp: 
+
+[<img src="https://img.youtube.com/vi/a0YrCABCOEY/maxresdefault.jpg" width="80%">](https://youtu.be/a0YrCABCOEY "Anime opening SICP")
