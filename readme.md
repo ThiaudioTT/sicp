@@ -29,3 +29,16 @@ https://www.youtube.com/playlist?list=PLVFrD1dmDdvdvWFK8brOVNL7bKHpE-9w0
 https://www.gnu.org/software/mit-scheme/
 
 http://wiki.call-cc.org/
+
+
+https://command-not-found.com/csi
+
+Install code runner to use chicken scheme or racket.
+
+where we have #lang sicp I use racket
+
+
+install evzen-wybitul.magic-racket for syntax highlighting and code runnere for run .rkt files
+https://web.mit.edu/6.001/6.037/sicp.pdf
+
+https://sicp-solutions.net/
