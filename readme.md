@@ -1,6 +1,9 @@
 # Welcome to my studies on SICP
 TODO.
 
+## Objectives:
+https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/pages/syllabus/
+
 https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/pages/syllabus/
 
 ## Videos
