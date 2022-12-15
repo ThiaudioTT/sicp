@@ -50,6 +50,9 @@ https://web.mit.edu/6.001/6.037/sicp.pdf
 
 https://sicp-solutions.net/
 
+## Solutions:
+https://sicp-solutions.net/
+
 ### Anime sicp: 
 
 [<img src="https://img.youtube.com/vi/a0YrCABCOEY/maxresdefault.jpg" width="80%">](https://youtu.be/a0YrCABCOEY "Anime opening SICP")
