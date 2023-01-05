@@ -56,3 +56,5 @@ https://sicp-solutions.net/
 ### Anime sicp: 
 
 [<img src="https://img.youtube.com/vi/a0YrCABCOEY/maxresdefault.jpg" width="80%">](https://youtu.be/a0YrCABCOEY "Anime opening SICP")
+
+Do not forget that we all learn by doing exercises!
