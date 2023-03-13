@@ -1,12 +1,22 @@
 # Welcome to my studies on SICP
 TODO.
 
+# Calendar
+
+Use it to do projects, exams and watch lectures. That is: use it as a planner.
+
+https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/pages/calendar/
+
 ## Objectives:
 https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/pages/syllabus/
 
 https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/pages/syllabus/
 
 ## Videos
+
+## "Official" videos from MIT
+
+https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/
 
 ### UC Berkeley CS 61A
 
