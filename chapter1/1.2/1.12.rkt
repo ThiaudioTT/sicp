@@ -3,6 +3,9 @@
 
 ; Note: this was had and I had to look at the solution. I was not able to do it by myself.
 
+; I think the induction was conquer and divide and break to smaller problems. 
+; Pascal function calculates only the value of the cell. Display-pascal-row displays a row. Display-pascal displays the whole triangle.
+
 (define (pascal row col)
   (cond ((= row 1) 1)
         ((or (= col 1) (= col row)) 1)
